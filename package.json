@@ -1,0 +1,16 @@
+{
+  "name": "twit_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twit": "^2.2.9"
+  }
+}
